@@ -1,3 +1,11 @@
+Temporary 'Bookmark'
+====================
+
+* eval leaks memory (probably a WebKit issue.)
+* js -> Rust interface not yet implemented.
+
+The original README follows.
+
 rust-webview
 ============
 ⚠️ This project is a work in progress. Very alpha. Really.
